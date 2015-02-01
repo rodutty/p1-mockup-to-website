@@ -1,0 +1,44 @@
+* {
+	font-family : Verdana, sans-serif;
+	color : #666666;
+}
+
+h1 {
+	padding-top: 26px;
+	font-size: 36pt;
+	text-align: center;
+}
+
+h2 {
+	font-size: 18pt;
+	font-weight: bold;
+	color : #f07c17;
+	padding-bottom: 20px;
+}
+
+p 	{
+	font-size: 12pt;
+	line-height : 205%;
+}
+
+.features {
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 29px;
+	border: 1px solid #ccc;
+}
+
+ul {
+	font-size: 12pt;
+	line-height: 200%;
+}
+
+.col-md-7 {
+	padding-right: 16px;
+}
+
+.col-md-5 {
+	margin-top: 20px
+}
+
