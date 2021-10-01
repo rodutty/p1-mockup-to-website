@@ -1,4 +1,7 @@
 * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 	font-family : Verdana, sans-serif;
 	color : #666666;
 }
@@ -39,6 +42,6 @@ ul {
 }
 
 .col-md-5 {
-	margin-top: 20px
+	margin: 20px 0px;
 }
 
